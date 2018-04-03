@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520381453 source:c:\users\kulik\documents\switch\main.cpp
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1516835076 source:c:\users\kulik\documents\losowa liczba\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<stdio.h>
+

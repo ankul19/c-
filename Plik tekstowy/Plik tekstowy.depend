@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1520987656 source:c:\users\kulik\documents\plik tekstowy\main.cpp
+	<iostream>
+	<fstream>
+

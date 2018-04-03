@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1520988856 source:c:\users\kulik\documents\plik tekstowy odczyt\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
